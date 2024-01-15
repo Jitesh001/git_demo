@@ -4,4 +4,10 @@ this is readme file
 #updating file
 New content is added directly by cloning repo
 
-#msg from branch1
+
+updating before rebase
+updating tags
+
+changes from forked repo
+2nd change from forked repo
+
